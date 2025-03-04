@@ -4,7 +4,7 @@ body{
     background: green;
 }
 .card {
-    border-radius: 2;color: black;
+    border-radius: 12px;color: black;
     height: 250px;
     width: 170px;
     margin-top: 10%;
