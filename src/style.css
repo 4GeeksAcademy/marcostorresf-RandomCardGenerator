@@ -9,5 +9,23 @@ body{
     width: 170px;
     margin-top: 10%;
     padding-top: 10%;
-    display: inline-block;
+    margin: auto;
+    margin-top: 10px;
+}
+    
+.icon.top {
+    position: absolute;
+    top: 0;
+    margin-left: 5px;
+}
+.icon.bottom {
+    position: absolute;
+    bottom: 0;
+    right: 5px;
+}
+
+.miBoton {
+    justify-content: center;
+    display: flex;
+    padding-top:2% ;
 }
