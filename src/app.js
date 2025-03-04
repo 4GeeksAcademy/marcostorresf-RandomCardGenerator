@@ -6,6 +6,7 @@ import "./assets/img/rigo-baby.jpg";
 import "./assets/img/4geeks.ico";
 
 window.onload = function () {
+  generateRandomCard ()
   //write your code here
   document.querySelector("#miBoton").addEventListener("click", generateRandomCard)
 

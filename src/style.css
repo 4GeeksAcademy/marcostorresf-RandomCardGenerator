@@ -8,7 +8,7 @@ body{
     height: 250px;
     width: 170px;
     margin-top: 10%;
-    padding-top: 10%;
+    padding-top: 80px;
     margin: auto;
     margin-top: 10px;
 }
@@ -22,8 +22,11 @@ body{
     position: absolute;
     bottom: 0;
     right: 5px;
+    transform: rotate(180deg);
 }
-
+.number {
+    margin-bottom: 10px;
+}
 .miBoton {
     justify-content: center;
     display: flex;
